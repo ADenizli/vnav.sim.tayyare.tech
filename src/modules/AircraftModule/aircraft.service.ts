@@ -55,7 +55,7 @@ export class AircraftService {
         derivativeError: 0,
         error: 0,
         constants: {
-          ki: 0.1,
+          ki: 1,
           kp: 0.01,
           kd: 0.01,
         },
